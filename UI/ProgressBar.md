@@ -91,3 +91,17 @@ IOS风格的进度条
 ![](https://camo.githubusercontent.com/668e6e5ee84b861907083899c99657a61abe6414/68747470733a2f2f7261772e6769746875622e636f6d2f56797368616b682d4b2f54482d50726f6772657373427574746f6e2f6d61737465722f50726f6772657373427574746f6e2e676966)
 
 [项目地址](https://github.com/torryharris/TH-ProgressButton)
+
+###  CircularProgressDrawable ###
+
+![](https://raw.githubusercontent.com/ITBox/AndroidOpenSourceCollection/master/Asset/CircularProgressDrawable.gif) 
+
+[项目地址](https://gist.github.com/castorflex/4e46a9dc2c3a4245a28e)
+
+### android-process-button ###
+
+![](https://github.com/dmytrodanylyk/android-process-button/raw/master/screenshots/sample1_small1.gif) ![](https://github.com/dmytrodanylyk/android-process-button/raw/master/screenshots/sample1_small2.gif)
+
+[项目地址](https://github.com/dmytrodanylyk/android-process-button)
+
+
