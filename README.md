@@ -8,7 +8,8 @@
   * [ListView](https://github.com/ITBox/AndroidOpenSourceCollection/blob/master/UI/ListView.md)
   * [ProgressBar](https://github.com/ITBox/AndroidOpenSourceCollection/blob/master/UI/ProgressBar.md)
   * [SeekBar](https://github.com/ITBox/AndroidOpenSourceCollection/blob/master/UI/ProgressBar.md)
-  * [文本控件](https://github.com/ITBox/AndroidOpenSourceCollection/blob/master/UI/Text.md)
+  * [TextView](https://github.com/ITBox/AndroidOpenSourceCollection/blob/master/UI/TextView.md)
+  * [EditText](https://github.com/ITBox/AndroidOpenSourceCollection/blob/master/UI/EditText.md)
   * [ViewPager](https://github.com/ITBox/AndroidOpenSourceCollection/blob/master/UI/ViewPager.md)
 
 * [**Menu**](https://github.com/ITBox/AndroidOpenSourceCollection/blob/master/UI/Menu.md)

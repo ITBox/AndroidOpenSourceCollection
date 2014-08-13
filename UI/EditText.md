@@ -19,16 +19,7 @@ EditText输入验证
 ### floatlabelededittext ###
 
 浮动标签
-
-[floatlabelededittext](https://github.com/wrapp/floatlabelededittext):
-
-[Titanic](https://github.com/RomainPiel/Titanic)：TextView特效
-
-* [Shimmer-android](https://github.com/RomainPiel/Shimmer-android):TextView特效
-
-* [SpritzerTextView](https://github.com/andrewgiang/SpritzerTextView)
-
-* [EmailAutoCompleteTextView](https://github.com/greenhalolabs/EmailAutoCompleteTextView)
+[floatlabelededittext](https://github.com/wrapp/floatlabelededittext)
 
 * [Calligraphy](https://github.com/chrisjenx/Calligraphy)
 
