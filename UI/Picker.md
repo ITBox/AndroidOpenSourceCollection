@@ -21,6 +21,8 @@
 ### DateSlider ###
 
 水平滚轮
+![](https://raw.githubusercontent.com/ITBox/AndroidOpenSourceCollection/master/Asset/DateSliding1.png)
+![](https://raw.githubusercontent.com/ITBox/AndroidOpenSourceCollection/master/Asset/DateSliding2.png)
 
 [项目地址](https://github.com/bendemboski/DateSlider)
 
