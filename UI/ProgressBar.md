@@ -13,16 +13,6 @@ Holo风格的进度条
 
 [项目地址](https://github.com/passsy/android-HoloCircularProgressBar)
 
-### ProgressButton ###
-
-带有进度的按钮
-
-![](https://camo.githubusercontent.com/6343e76acceac9219a358f8e6fd20edd63880fab/68747470733a2f2f646576656c6f7065722e616e64726f69642e636f6d2f64657369676e2f6d656469612f70726f67726573735f61637469766974795f637573746f6d2e706e67)
-
-
-
-[项目地址](https://github.com/f2prateek/progressbutton)
-
 ###AndroidProgressHUD  ###
 
 IOS风格的进度条
@@ -80,28 +70,12 @@ IOS风格的进度条
 
 [项目地址](https://github.com/Ceroce/CERoundProgressView)
 
-###circular-progress-button  ###
-
-![](https://github.com/dmytrodanylyk/circular-progress-button/raw/master/screenshots/intro.gif)
-
-[项目地址](https://github.com/dmytrodanylyk/circular-progress-button)
-
-### TH-ProgressButton ###
-
-![](https://camo.githubusercontent.com/668e6e5ee84b861907083899c99657a61abe6414/68747470733a2f2f7261772e6769746875622e636f6d2f56797368616b682d4b2f54482d50726f6772657373427574746f6e2f6d61737465722f50726f6772657373427574746f6e2e676966)
-
-[项目地址](https://github.com/torryharris/TH-ProgressButton)
-
 ###  CircularProgressDrawable ###
 
 ![](https://raw.githubusercontent.com/ITBox/AndroidOpenSourceCollection/master/Asset/CircularProgressDrawable.gif) 
 
 [项目地址](https://gist.github.com/castorflex/4e46a9dc2c3a4245a28e)
 
-### android-process-button ###
 
-![](https://github.com/dmytrodanylyk/android-process-button/raw/master/screenshots/sample1_small1.gif) ![](https://github.com/dmytrodanylyk/android-process-button/raw/master/screenshots/sample1_small2.gif)
-
-[项目地址](https://github.com/dmytrodanylyk/android-process-button)
 
 

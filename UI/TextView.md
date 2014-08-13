@@ -33,3 +33,9 @@
 ![](https://raw.githubusercontent.com/ITBox/AndroidOpenSourceCollection/master/Asset/SecretTextView.gif)
 
 [项目地址](https://github.com/matthewrkula/SecretTextView)
+
+### AutoScaleTextView ###
+
+![](http://www.23code.com/wp-content/uploads/2013/12/device-2013-12-17-135448.png)
+
+[项目地址](https://bitbucket.org/ankri/autoscaletextview)
