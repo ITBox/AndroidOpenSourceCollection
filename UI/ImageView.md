@@ -2,6 +2,12 @@
 
 [项目地址](https://github.com/chrisbanes/PhotoView)
 
+### ImageViewZoom ###
+
+允许手势缩放的ImageView
+
+[项目地址](https://github.com/sephiroth74/ImageViewZoom)
+
 ### gesture-imageview ###
 
 [项目地址](https://github.com/jasonpolites/gesture-imageview)
@@ -26,4 +32,8 @@
 
 显示gif图片
 
-[项目地址](https://github.com/sbakhtiarov/gif-movie-view)：
+[项目地址](https://github.com/sbakhtiarov/gif-movie-view)
+
+
+
+
