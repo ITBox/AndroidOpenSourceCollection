@@ -63,3 +63,20 @@
 
 [项目地址](https://github.com/tyczj/ExtendedCalendarView)
 
+### Android-RecurrencePicker ###
+
+![](https://camo.githubusercontent.com/835909172f64d566f0eb6cb227586dbb0c382ad2/68747470733a2f2f726177322e6769746875622e636f6d2f536875737368752f416e64726f69642d526563757272656e63655069636b65722f6d61737465722f73637265656e73686f74732f726563757272656e63652d7069636b65722e706e67)
+
+[项目地址](https://github.com/Shusshu/Android-RecurrencePicker)
+
+### RobotoCalendarView ###
+
+![](https://camo.githubusercontent.com/062d7a8857cc07d80b3904839e3e0d0c43b7c1d9/687474703a2f2f6936322e74696e797069632e636f6d2f6b66316430352e6a7067)
+
+[项目地址](https://github.com/marcohc/RobotoCalendarView)
+
+### MFCalendarView ###
+
+![](https://camo.githubusercontent.com/590ecfcc97602423c3ce8c66eaf89c8c6f629468/68747470733a2f2f726177322e6769746875622e636f6d2f4d75737461666146657268616e2f4d4643616c656e646172566965772f6d61737465722f63616c656e646172766965772d68616c662e706e67)
+
+[项目地址](https://github.com/MustafaFerhan/MFCalendarView)
