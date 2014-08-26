@@ -185,6 +185,13 @@ Items section
   margin-bottom: 15px;
   margin-top: 10px;
 }
+.item .logo-container{
+  margin-top: 10px;
+}
+.item .logo-container .logo{
+  height: 320px;
+  max-width: 500px;
+}
 .btn-primary {
   border: none;
   border-radius: 0;
