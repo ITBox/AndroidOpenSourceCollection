@@ -45,3 +45,9 @@
 ![](https://raw.githubusercontent.com/grantland/android-autofittextview/master/website/static/autofittextview.gif)
 
 [项目地址](https://github.com/grantland/android-autofittextview)
+
+### android-justifiedtextview ###
+
+![](https://github.com/ufo22940268/android-justifiedtextview/raw/master/en.png)
+
+[项目地址](https://github.com/ufo22940268/android-justifiedtextview)
