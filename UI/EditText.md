@@ -26,3 +26,10 @@ EditText输入验证
 * [SwitchButton](https://github.com/Issacw0ng/SwitchButton)
 
 * [SwitchCompatLibrary](https://github.com/ankri/SwitchCompatLibrary):Switch兼容包
+
+
+### singleinputform
+
+一个输入框搞定一切
+
+[项目地址](https://github.com/flavienlaurent/singleinputform)

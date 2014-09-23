@@ -81,3 +81,10 @@ ViewPager指示器
 
 [项目地址](https://github.com/MoshDev/BackgroundViewPager)
 
+
+### JellyViewPager
+
+![](https://github.com/chiemy/JellyViewPager/raw/master/capture.gif)
+
+[项目地址](https://github.com/chiemy/JellyViewPager)
+

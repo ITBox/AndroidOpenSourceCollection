@@ -11,11 +11,14 @@
   * [TextView](https://github.com/ITBox/AndroidOpenSourceCollection/blob/master/UI/TextView.md)
   * [EditText](https://github.com/ITBox/AndroidOpenSourceCollection/blob/master/UI/EditText.md)
   * [ViewPager](https://github.com/ITBox/AndroidOpenSourceCollection/blob/master/UI/ViewPager.md)
+  * [Tip](https://github.com/ITBox/AndroidOpenSourceCollection/blob/master/UI/Tip.md)
 
 * [**Menu**](https://github.com/ITBox/AndroidOpenSourceCollection/blob/master/UI/Menu.md)
 
 * [**选择器**](https://github.com/ITBox/AndroidOpenSourceCollection/blob/master/UI/Picker.md)
 * [**Toast**](https://github.com/ITBox/AndroidOpenSourceCollection/blob/master/UI/Toast.md)
+
+* [**动画**](https://github.com/ITBox/AndroidOpenSourceCollection/blob/master/UI/Animation.md)
 
 ### 数据存储 ###
 
