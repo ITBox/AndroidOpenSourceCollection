@@ -51,3 +51,9 @@
 ![](https://github.com/ufo22940268/android-justifiedtextview/raw/master/en.png)
 
 [项目地址](https://github.com/ufo22940268/android-justifiedtextview)
+
+### TextJustify-Android ###
+
+![](https://camo.githubusercontent.com/35d07169d22f14caed6d6e75ee16973908f8bc2e/687474703a2f2f692e696d6775722e636f6d2f78627a595374632e706e67)
+
+[项目地址](https://github.com/bluejamesbond/TextJustify-Android)
