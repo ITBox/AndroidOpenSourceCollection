@@ -33,3 +33,9 @@ EditText输入验证
 一个输入框搞定一切
 
 [项目地址](https://github.com/flavienlaurent/singleinputform)
+
+### PatternedEditText ###
+
+![](https://github.com/faradaj/PatternedEditText/raw/master/images/patterned-edit-text-sample.png)
+
+[项目地址](https://github.com/faradaj/PatternedEditText)
