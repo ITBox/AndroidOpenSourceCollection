@@ -46,3 +46,8 @@
 ![](https://github.com/dmytrodanylyk/circular-progress-button/raw/master/screenshots/intro.gif)
 
 [项目地址](https://github.com/dmytrodanylyk/circular-progress-button)
+
+###SwitchButton###
+
+![](https://raw.githubusercontent.com/kyleduo/SwitchButton/master/preview/switchbutton_md.jpg)
+[项目地址](https://github.com/kyleduo/SwitchButton)
